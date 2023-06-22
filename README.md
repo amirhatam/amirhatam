@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm passionate about coding/programming</h3>
 
-<p align="center"> Codewars <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="100" /></a></p>
+<p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank"><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="100" /></a></p>
 
 
  <p align="center" > <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
