@@ -4,7 +4,7 @@
 <h3 align="center">I'm passionate about coding/programming</h3>
 
 
-
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=karimmakhloufi&label=Profile%20views&color=0e75b6&style=flat](https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient)" alt="amirhatam" /> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient)](https://git.io/streak-stats)
 <!--
