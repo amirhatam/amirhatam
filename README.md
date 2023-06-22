@@ -10,7 +10,7 @@
 
 
 
- <p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank" ><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="50" /></a></p>
+ <p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank" ><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="30" /></a></p>
 
 
 
