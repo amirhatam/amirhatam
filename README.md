@@ -7,7 +7,7 @@
 
 <h3 align="center">I'm passionate about coding/programming</h3>
 
-<h5 align="center">I’m currently following apprenticeship programs for bachelor degree.</h3>
+<h5 >I’m currently following apprenticeship programs for bachelor degree.</h3>
 
 
 </br>
