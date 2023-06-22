@@ -8,6 +8,9 @@
 <h3 align="center">I'm passionate about coding/programming</h3>
 
 </br>
+</br>
+</br>
+
  <p align="center" > <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
 
  <p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank" ><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="40" /></a></p>
