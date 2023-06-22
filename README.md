@@ -9,7 +9,7 @@
 
 
 
- <p align="center" style="margin: 0px 150px 16px 150px;"> <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
+ <p align="center" style="margin: 0px 150px 16px 150px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
 
 
 <!--
