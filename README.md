@@ -1,5 +1,6 @@
+![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge)
 <h1 align="center">👋 Hey everyone, Im Amir</h1>
-<span>![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge)</span>
+
 <h3 align="center">I'm passionate about coding/programming</h3>
 
 
