@@ -1,8 +1,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge) -->
 
-<div style="display: grid;grid-template-columns: auto auto auto;"> 
+<div style="display: grid;grid-template-columns: auto auto auto;padding: 10px;"> 
 <img src="https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge" alt="amirhatam" /> 
-<img align="center" src="https://www.codewars.com/users/AmirHatam/badges/large" alt="amirhatam" /> 
+<img  src="https://www.codewars.com/users/AmirHatam/badges/large" alt="amirhatam" /> 
 </div>
 
 
