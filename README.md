@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhatam&label=Profile%20views&color=0e75b6&style=flat" alt="amirhatam" /> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=javascript-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient)](https://git.io/streak-stats)
 <!--
 **amirhatam/amirhatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
