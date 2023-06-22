@@ -1,6 +1,5 @@
 ### 👋 Hey everyone, Im Amir 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhatam&label=Profile%20views&color=0e75b6&style=flat" alt="amirhatam" /> </p>
 
 ![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge)
 
