@@ -10,12 +10,21 @@
 
 
 
- <p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank" ><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="30" /></a></p>
+ <p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank" ><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="40" /></a></p>
 
 
 
  <p align="center" > <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
 
+
+### Find me all around the web:
+
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/amir-hatam-7ba7601ba/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+ 
+<a href="https://portfolio-amir-hatam-dev.netlify.app/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
+</p>
 
 <!--
 **amirhatam/amirhatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
