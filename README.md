@@ -9,7 +9,7 @@
 <h3 align="center">I'm passionate about coding/programming</h3>
 
 
-<div style="color: blue">
+<div class="color: blue">
   <div >1</div>
   <div >2</div>
   <div >3</div>  
