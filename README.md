@@ -1,4 +1,6 @@
 ### 👋 Hey everyone, Im Amir 
+<h1 align="center">👋 Hey everyone, Im Amir</h1>
+<h3 align="center">I'm passionate about coding/programming</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge)
