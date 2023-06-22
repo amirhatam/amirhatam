@@ -5,8 +5,9 @@
 <h1 align="center">👋 Hey everyone, Im Amir</h1>
 
 <h3 align="center">I'm passionate about coding/programming</h3>
-
-<p style="margin:150"> <a href="https://www.codewars.com/users/AmirHatam" target="blank"><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="100" /></a></p>
+<div style="display: grid;grid-template-columns: auto auto auto;">
+<p align="center"> <a href="https://www.codewars.com/users/AmirHatam" target="blank"><img align="center" src="https://www.codewars.com/users/AmirHatam/badges/small" height="100" /></a></p>
+</div>
 
 
  <p align="center" > <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
