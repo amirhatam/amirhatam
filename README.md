@@ -1,6 +1,7 @@
 ### 👋 Hey everyone, Im Amir 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhatam&label=Profile%20views&color=0e75b6&style=flat" alt="amirhatam" /> </p>
+![](https://komarev.com/ghpvc/?username=amirhatam&label=PROFILE+VIEWS)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient)](https://git.io/streak-stats)
 <!--
