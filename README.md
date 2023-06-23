@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hey everyone, Im Amir</h1>
 
-<h3 align="center">I'm passionate about coding/programming</h3>
+<h3 align="center">I'm passionate about coding</h3>
 
 </br>
 
