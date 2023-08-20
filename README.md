@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=amirhatam&style=for-the-badge)
 
-<img src="https://repository-images.githubusercontent.com/174944458/93c17c73-3263-4366-891e-afb691886ed3" height="300" />
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/174944458/93c17c73-3263-4366-891e-afb691886ed3" height="400" />
+</p>
 
 <h1 align="center">👋 Hey everyone, Im Amir</h1>
 
