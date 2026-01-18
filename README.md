@@ -13,7 +13,7 @@
 <h5>Driven by an unwavering passion for coding, my fervent pursuit of programming languages and problem-solving illuminates my career path. Additionally, I find solace and inspiration in the rhythmic stride of running and the serene embrace of nature, as I embark on invigorating walks that nurture both my physical and creative well-being.</h5>
 
 <p align="center">
-<img src="./aws-certified-solutions-architect-associate.pngaws-certified-solutions-architect-associate.png" height="300" />
+<img src="./aws-certified-solutions-architect-associate.png" height="300" />
 </p>
 
  <p align="center" > <img src="https://github-readme-streak-stats.herokuapp.com?user=amirhatam&theme=ocean-gradient" alt="amirhatam" /> </p>
